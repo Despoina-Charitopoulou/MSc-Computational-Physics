@@ -2,8 +2,8 @@
 
 ## Contents
 
-Listing 6.14 
-Listing 6.22
+Listing 6.14 \n
+Listing 6.22 \n
 Presentation
 
 ## Listing 6.14 (Listing-6-14.ipynd)
