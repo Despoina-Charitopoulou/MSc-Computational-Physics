@@ -1,2 +1,2 @@
-# -MSc-Computational-Physics
+# MSc-Computational-Physics
 Assignments from MSc-Computational Physics in AUTH 
